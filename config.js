@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Cali',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Morning!',
+	greetingAfternoon: 'Afternoon!,',
+	greetingEvening: 'Its Getting Late!,',
+	greetingNight: 'Degenerate Hours ):',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -55,37 +55,37 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/cali-mbv',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Proton Mail',
 			icon: 'mail',
 			link: 'https://mail.protonmail.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Gmail',
+			icon: 'mail',
+			link: 'https://gmail.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Youtube',
+			icon: 'youtube',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.tv',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Hacker News',
+			icon: 'news',
+			link: 'https://thehackernews.com/',
 		},
 	],
 
@@ -106,7 +106,7 @@ const CONFIG = {
 			id: '3',
 			name: 'bot',
 			icon: 'bot',
-			link: 'https://discord.com/app',
+			link: 'https://discord.id',
 		},
 		{
 			id: '4',
