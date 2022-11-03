@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Gmail',
-			icon: 'mail',
+			icon: 'mail-open',
 			link: 'https://gmail.com',
 		},
 		{
@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Hacker News',
-			icon: 'news',
+			icon: 'newspaper',
 			link: 'https://thehackernews.com/',
 		},
 	],
@@ -110,9 +110,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Outlook',
+			icon: 'inbox',
+			link: 'https://outlook.com',
 		},
 		{
 			id: '5',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '<3',
+					link: 'https://www.youtube.com/watch?v=yhGCk1Nlyfw',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '<3',
+					link: 'https://www.youtube.com/watch?v=L4sbDxR22z4',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '<3',
+					link: 'https://www.youtube.com/watch?v=GGaWDNNYqhQ',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '<3',
+					link: 'https://www.youtube.com/watch?v=VVPw4rypdcw',
 				},
 			],
 		},
@@ -209,20 +209,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'ArchBtw',
+					link: 'https://github.com/BlackArch/blackarch',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'Lua',
+					link: 'https://github.com/lua/lua',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Python',
+					link: 'https://github.com/python',
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'https://github.com/cali-mbv',
 				},
 			],
 		},
