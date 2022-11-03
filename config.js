@@ -65,15 +65,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Gmail',
-			icon: 'mail-open',
-			link: 'https://gmail.com',
-		},
-		{
-			id: '4',
 			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com',
+		},
+		{
+			id: '4',
+			name: 'Gmail',
+			icon: 'mail-open',
+			link: 'https://gmail.com',
 		},
 		{
 			id: '5',
